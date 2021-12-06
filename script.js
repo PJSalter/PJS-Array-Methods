@@ -135,11 +135,9 @@ clickAwayExtras.addEventListener("click", function(){
    let callDatFunction = dropRepeats(drop);
    console.log(callDatFunction);
 
-  if(callDatFunction === drop) {
-  dropThoseRepeats.textContent = `Excellent!!! You've dropped those repeats which accepts ${callDatFunction}`;
-  } else if(arrayMethodThree.value.split("")) {
-  dropThoseRepeats.textContent = `INCORRECT!!! Those repeats are still hanging with ${callDatFunction}`;
-  }
+   if(callDatFunction) {
+    return dropThoseRepeats.textContent = `Excellent!!! You've dropped those repeats which accepts ${callDatFunction}`;
+    };
   //let figure = n.trim().split(" ");
   //console.log(figure)
   //let res = figure.toString().replace(/["" ]|[, ]+/gi, " ");
