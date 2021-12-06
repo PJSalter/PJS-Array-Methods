@@ -117,23 +117,23 @@ let cuttingAwayRepeats = [...new Set(array)];
 return cuttingAwayRepeats
 }
 
-console.log(dropRepeats([1, 1, 2, 3, 3, 2, 1]));
+//console.log(dropRepeats([1, 1, 2, 3, 3, 2, 1]));
 // returns [1, 2, 3]
 
-console.log(dropRepeats(['hi', 'there', 'there', 2, 1, 1, 'hi']));
+//console.log(dropRepeats(['hi', 'there', 'there', 2, 1, 1, 'hi']));
 // returns ['hi', 'there', 2, 1]
 
-console.log(dropRepeats([]));
+//console.log(dropRepeats([]));
 // returns []
 
 //I want to be able to type the numbers and click the button so that the function will commence and show the result on screen.
 clickAwayExtras.addEventListener("click", function(){
 
     let drop = arrayMethodThree.value.trim().split(" ");
-    console.log(drop)
+    //console.log(drop)
   
    let callDatFunction = dropRepeats(drop);
-   console.log(callDatFunction);
+   //console.log(callDatFunction);
 
    if(callDatFunction) {
     return dropThoseRepeats.textContent = `Excellent!!! You've dropped those repeats which accepts ${callDatFunction}`;
