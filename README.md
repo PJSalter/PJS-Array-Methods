@@ -22,16 +22,16 @@
 
 # **The Use of Dom Manipulation**
 
-### + *connecting the html attributes to the JavaScript page with **document.querySelector()**.*
-### + *Creating the JavaScript to that once the user clicks the button then once of the functions of their choice will output a result on the main page.*
-### + *The user is able to type out particular values, passing on an array as an argument from a function of choice.*
-### + *Using **addEventListener** that has a clickable function in the javaScript code, this allows the user to click on the button for their answer, it also allows the particular function to run within that event listener.*
-### + *The results will be displayed on the web page so that the user has their answer.*
+- ### *connecting the html attributes to the JavaScript page with **document.querySelector()**.*
+- ### *Creating the JavaScript to that once the user clicks the button then once of the functions of their choice will output a result on the main page.*
+- ### *The user is able to type out particular values, passing on an array as an argument from a function of choice.*
+- ### *Using **addEventListener** that has a clickable function in the javaScript code, this allows the user to click on the button for their answer, it also allows the particular function to run within that event listener.*
+- ### *The results will be displayed on the web page so that the user has their answer.*
 
 # **How I can improve the User Experience?**
 
-### + *I think that I can improve the user experience by modifying this page with making this fully responsive for all screen sizes.*
-### + *Adding some styling to make this page more eye catching, adding a color scheme that suits the project.*
-### + *styling on the page to have all text boxes and buttons for the functions at the centre and positions neatly on the page.*
-### + *Font sizing needs changing so that its easier to read. making this more playful and fun for the user as if they are using the page like a fun fact game.*
-### + *Additional instructions on how the user interacts with the page, so that they get a clear understanding.*
+- ### *I think that I can improve the user experience by modifying this page with making this fully responsive for all screen sizes.*
+- ### *Adding some styling to make this page more eye catching, adding a color scheme that suits the project.*
+- ### *styling on the page to have all text boxes and buttons for the functions at the centre and positions neatly on the page.*
+- ### *Font sizing needs changing so that its easier to read. making this more playful and fun for the user as if they are using the page like a fun fact game.*
+- ### *Additional instructions on how the user interacts with the page, so that they get a clear understanding.*
