@@ -6,19 +6,19 @@
 
 # **Starting up the project:**
 
-### + *Firstly setting up the **HTML, CSS and JavaScript** in **VS Code** in order for them to interlink with one another.*
-### + *The **HTML** will need to include **input tags** that will accept strings.*
-### + *I have used two different input tags that have a **type number**. This allows the user to type a number.*
-### + *One input tag has a **type text** as it works with my function to of an array method to **take away repeats** for text and number.*
-### + *All of the inputs will include a **label** for every function being including.*
-### + *This includes three different **buttons** for the user to interact with.*
-### + *This will output the results for the user displayed on the web page.*
+- ### *Firstly setting up the **HTML, CSS and JavaScript** in **VS Code** in order for them to interlink with one another.*
+- ### *The **HTML** will need to include **input tags** that will accept strings.*
+- ### *I have used two different input tags that have a **type number**. This allows the user to type a number.*
+- ### *One input tag has a **type text** as it works with my function to of an array method to **take away repeats** for text and number.*
+- ### *All of the inputs will include a **label** for every function being including.*
+- ### *This includes three different **buttons** for the user to interact with.*
+- ### *This will output the results for the user displayed on the web page.*
 
 # **The Functions being Used:**
 
-### + *I have used the **reduce Higher Order Function method** that returns a singular value from a total of elements, such as numbers from the array it has been given.*
-### + *The **filter Higher Order Function** is used, I named it divisible and it creates a new array filled with numbers that are divisible by two.*
-### + *My third function that I created was taking an array of numbers or text and uses a method called **new set** within a **spread operator** to drop repeats within an array so that it will only return sigular values, but not doubles of them.
+- ### *I have used the **reduce Higher Order Function method** that returns a singular value from a total of elements, such as numbers from the array it has been given.*
+- ### *The **filter Higher Order Function** is used, I named it divisible and it creates a new array filled with numbers that are divisible by two.*
+- ### *My third function that I created was taking an array of numbers or text and uses a method called **new set** within a **spread operator** to drop repeats within an array so that it will only return sigular values, but not doubles of them.*
 
 # **The Use of Dom Manipulation**
 
